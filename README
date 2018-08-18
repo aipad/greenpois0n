@@ -23,7 +23,7 @@ Remaining bugs to fix:
 
 * lockdownd poping up a progress bar when Loader extracts cydia package on certain devices (certainly previously jailbroken devices updated to 4.2.1.)
 
-* Remarks on AppleTV DFU instructions:
+* Remarks on Apple TV DFU instructions:
   iH8sn0w: Alright, when greenpois0n is done booting the ramdisk for the Apple TV, it needs power to continue executing the ramdisk. But greenpois0n says that the Jailbreak is complete. So people will unplug the usb to the apple tv which will interrupt the ramdisk executing.
   iH8sn0w: Its not like an iDevice where you see the actual progress on a display.
   iH8sn0w: nor does the Apple TV have a battery 
@@ -36,7 +36,7 @@ Remaining bugs to fix:
 **********************************
 Fixed:
 
-X Verizon CMDA iPhone3,3: the BDID is now 6 (posixninja)
+X Verizon CDMA iPhone3,3: the BDID is now 6 (posixninja)
 X non working gpsPhone (thanks to jan0)
-X AppleTV2 support (|bile|)
+X AppleTV (2th gen) support (|bile|)
 X sandbox issues with iBooks and DRM'd Books
